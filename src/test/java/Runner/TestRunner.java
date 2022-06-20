@@ -1,5 +1,5 @@
 package Runner;
-import TestSuite.TestSuite;
+import TestSuites.TestSuite;
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
 import org.junit.runner.notification.Failure;
