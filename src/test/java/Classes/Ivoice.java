@@ -1,4 +1,4 @@
-package jUnitExamples;
+package Classes;
 
 public class Ivoice {
 }

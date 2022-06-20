@@ -1,9 +1,6 @@
 package TestSuites;
 
-import jUnitExamples.AssertJUnitTests;
-import jUnitExamples.Ivoice;
-import jUnitExamples.ParametrizedTests;
-import jUnitExamples.PrintJunitTests;
+import Classes.Ivoice;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 
