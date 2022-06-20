@@ -1,22 +1,5 @@
-# Compiled class file
-*.class
-target/
-.settings/
+# Ignored files and folders
 .idea/
-# Log file
-*.log
+target/
 
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-*.zip
-*.tar.gz
-*.rar
 
