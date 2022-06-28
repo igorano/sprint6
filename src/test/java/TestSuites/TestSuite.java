@@ -1,4 +1,4 @@
-package TestSuite;
+package TestSuites;
 
 import jUnitExamples.AssertJUnitTests;
 import jUnitExamples.ParametrizedTests;

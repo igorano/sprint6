@@ -1,4 +1,4 @@
-package jUnitExamples;
+package Classes;
 
 public class Fibonacci {
     public static int compute(int n) {
